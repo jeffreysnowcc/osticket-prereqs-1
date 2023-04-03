@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles, Department, and Teams
-- Item 2
+- Service Level Agreement in osTicket
 - Item 3
 - Item 4
 
