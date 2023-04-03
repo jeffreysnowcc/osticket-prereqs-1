@@ -23,9 +23,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles, Department, and Teams
+- Creating Agents to work the tickets
 - Service Level Agreement in osTicket
-- Item 3
-- Item 4
+- Creating tickets to work
 
 
 <h2>Configuration Steps</h2>
